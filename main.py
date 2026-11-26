@@ -1,6 +1,6 @@
 """Entry for make.fun: Fix Human Sleep: Funniest Patch Note.
 
-A changelog line that finally patches the 2 a.m. embarrassment replay.
+A changelog line that finally patches the 2 a.m. embarrassment replay, in proper release-note voice.
 """
 import os
 
